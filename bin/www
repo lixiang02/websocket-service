@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-var ws = require('../dist/src/index.js')
+var ws = require('../dist/index.js')
 
 new ws.WebSocketCenter()
