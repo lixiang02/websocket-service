@@ -1,5 +1,5 @@
 {
-  "name": "websocket-service",
+  "name": "ws-middle-service",
   "version": "0.0.1",
   "description": "",
   "main": "dist/src/index.js",
