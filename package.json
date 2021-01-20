@@ -1,9 +1,10 @@
 {
   "name": "ws-middle-service",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/index.js",
   "bin": "bin/www",
+  "typings": "dist/index.d.ts",
   "scripts": {
     "start": "node bin/www",
     "build": "tsc",
